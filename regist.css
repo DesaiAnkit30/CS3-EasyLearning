@@ -1,0 +1,41 @@
+H1 {
+
+ background-color:gray;
+	color:#fff;
+	font-family:'Kristen ITC',sans-serif;
+	font-size:35px;
+}
+
+td{
+
+ background-color:#00cccc1;
+	color:#000000;
+	font-family:'Segoe Print',sans-serif;
+	font-size:23px;
+}
+
+input {
+    background: white;
+    border: 1px solid #33ffff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 3px #00cccc;
+    color: #666;
+    float: left;
+    padding: 5px 10px;
+    width: 165px;
+    outline: none;
+}
+
+pre {
+    background: #00ff99;
+    border: 1px solid #00ff99;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 3px #00ff99;
+    color: #666;
+    float: left;
+    padding: 5px 10px;
+    width: 165px;
+    outline: none;
+}
+
+

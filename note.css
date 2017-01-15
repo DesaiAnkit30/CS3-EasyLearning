@@ -1,0 +1,27 @@
+ H2{
+
+font-family:'Comic Sans MS',sans-serif;
+	font-size:30px;
+}
+
+tr
+{
+font-family:'Comic Sans MS',sans-serif;
+}	font-size:30px;
+
+input
+{
+background-color:#3399FF;
+	color:#fff;
+	font-family:'Helvetica Neue',sans-serif;
+	font-size:18px;
+	line-height:30px;
+	border-radius:20px;
+	-webkit-border-radius:20px;
+	-moz-border-radius:20px;
+	border:0;
+	text-shadow:#C17C3A 0 -1px 0;
+	width:130px;
+	height:32px
+}
+

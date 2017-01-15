@@ -1,0 +1,53 @@
+table,h1 {
+	font-family:'Comic Sans MS',sans-serif;
+	font-size:27px;
+	
+}
+
+pre {
+	font-family:'Comic Sans MS',sans-serif;
+	font-size:90px;
+	color: blue;
+	
+}
+
+th {
+	font-family:'Comic Sans MS',sans-serif;
+	font-size:90px;
+	color: blue;
+	
+}
+tc{
+font-family:'Comic Sans MS',sans-serif;
+	font-size:90px;
+	color: blue;
+}
+p {
+text-decoration: none;
+    font: bold 13px Arial;
+    display: block;
+    margin: 20px auto;
+    padding: 6px 14px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    width: 100px;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+div{
+	font-size: 60px;
+	color: 6699ff;
+	font-style: italic;
+	font-weight: bold;
+}
+h3
+{
+font-size: 40px;
+	color: 333333;
+	font-style: italic;
+	font-weight: bold;
+}
